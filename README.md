@@ -1,16 +1,28 @@
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.athul.dev/api?username=Acik-lung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="180" />
-<img src="https://github-readme-stats.athul.dev/api/top-langs/?username=Acik-lung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="180" />
+  ## 📊 GitHub Analytics
+  
+  <!-- Stats Utama & Bahasa yang Paling Sering Digunakan -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" width="48%" />
+  </p>
 
-<br/>
+  <!-- GitHub Commit Streak -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_ANDA&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  </p>
 
-<img src="https://streak-stats.demolab.com?user=Acik-lung&theme=tokyonight&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff0033" width="85%" />
+  <!-- Piala & Pencapaian GitHub -->
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=USERNAME_ANDA&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+    </a>
+  </p>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acik-lung&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff" width="95%" />
+  <!-- Grafik Kontribusi Aktivitas -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_ANDA&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="97%" />
+  </p>
 
 </div>
