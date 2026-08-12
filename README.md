@@ -1,24 +1,19 @@
 <div align="center">
 
-  ## 📊 GitHub Analytics & Profile Stats
+  ## 📊 GitHub Analytics
 
-  <!-- GitHub Stats & Top Languages (Side-by-side) -->
+  <!-- Stats Utama & Top Languages (Menggunakan Mirror API Vercel yang Lebih Cepat & Sederhana) -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Acik-lung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Acik-lung GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acik-lung&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-eight-the.vercel.app/api?username=Acik-lung&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub Acik-lung" width="48%" />
+    <img src="https://github-readme-stats-eight-the.vercel.app/api/top-langs/?username=Acik-lung&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=8" alt="Bahasa Terpopuler" width="48%" />
   </p>
 
-  <!-- GitHub Streak Stats -->
+  <!-- Alternative Streak Stats (Menggunakan Anurag Hazra Mirror Server) -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Acik-lung&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+    <img src="https://github-readme-streak-stats-salesforce.vercel.app/?user=Acik-lung&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
   </p>
 
-  <!-- Commit Summary & Productivity Metrics (Modern Alternative) -->
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Acik-lung&theme=tokyonight" alt="GitHub Profile Summary" width="97%" />
-  </p>
-
-  <!-- Activity Graph (3D/Flat Activity Chart) -->
+  <!-- Grafik Kontribusi Aktivitas (Sudah Terbukti Berhasil dan Lancar pada Gambar Anda) -->
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Acik-lung&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="97%" />
   </p>
