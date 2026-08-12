@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Acik-lung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Acik-lung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="180" />
+<img src="https://github-readme-stats.athul.dev/api?username=Acik-lung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" height="180" />
+<img src="https://github-readme-stats.athul.dev/api/top-langs/?username=Acik-lung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="180" />
 
 <br/>
 
